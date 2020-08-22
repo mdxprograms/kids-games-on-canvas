@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start:flappy": "parcel flappy/index.html -p 3000 --open",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
